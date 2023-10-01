@@ -1,0 +1,20 @@
+.gradient-background{
+    background: linear-gradient(to right, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%);
+
+}
+.lead{
+    font-size: 2rem;
+    color:rgb(55, 54, 55);
+    font-family:sans-serif;
+}
+.feature-icon-small {
+    width: 3rem;
+    height: 3rem;
+  }
+ .list{
+    list-style:none;
+    padding-top: 0px;
+ }
+ .logo{
+    background-image: linear-gradient(-225deg, #E3FDF5 0%, #FFE6FA 100%);
+ }
